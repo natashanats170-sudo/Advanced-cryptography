@@ -26,18 +26,4 @@ This repository documents practical cryptography exercises including:
 6. Password Hashing and Authentication
 7. Password Strength Analyzer
 
-## Suggested Repository Structure
 
-```
-advanced-cryptography-project/
-├── README.md
-├── docs/
-│   └── ADVANCED_CRYPTOGRAPHY_REPORT.docx
-├── week1_environment_setup/
-├── week2_classical_ciphers/
-├── week3_stream_ciphers/
-├── week4_aes_encryption/
-├── week5_rsa_cryptography/
-├── week6_password_security/
-└── creative_task_password_analyzer/
-```
