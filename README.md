@@ -1,21 +1,21 @@
-# Advanced-cryptography
+# Advanced-cryptography - BIT4138.
 
-## Student Information
-- Name: Natasha Wanjiru Thungu
-- Admission No: BSCCS/2024/53895
-- Unit Code: BIT4138
-- Unit: Advanced Cryptography
+## Student Information.
+- Name: Natasha Wanjiru Thungu.
+- Admission No: BSCCS/2024/53895.
+- Unit Code: BIT4138.
+- Unit: Advanced Cryptography.
 
-## Project Title
-Design and Implementation of a Hybrid File Encryption System
+## Project Title.
+Design and Implementation of a Hybrid File Encryption System.
 
-## Technologies
+## Technologies.
 - Python
 - Cryptography Library
 - OpenSSL
 - GitHub
 
-## Project Overview
+## Project Overview.
 This repository documents practical cryptography exercises including:
 
 1. Environment Setup
