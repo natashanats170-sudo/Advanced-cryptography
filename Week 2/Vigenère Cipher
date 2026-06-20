@@ -8,3 +8,4 @@ def vigenere_encrypt(text, key):
         else:
             result += ch
     return result
+
