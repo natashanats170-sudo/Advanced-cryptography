@@ -1,0 +1,10 @@
+def vigenere_encrypt(text, key):
+    key = key.upper(); result = ""; ki = 0
+    for ch in text.upper():
+        if ch.isalpha():
+            shift = ord(key[ki % len(key)]) - 65
+            result += chr((ord(ch) - 65 + shift) % 26 + 65)
+            ki += 1
+        else:
+            result += ch
+    return result
